@@ -89,8 +89,9 @@ height: 60vh;
 .saki{
     font-family: Papyrus;
     color: white;
-    
+    font-size: 2em;
+    font-weight: bold;
 }
-.saki:hover span{
+.saki:hover span:nth-child{
      transform: skewY(-15deg);
 }
