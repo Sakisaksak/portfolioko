@@ -164,3 +164,7 @@ height: 60vh;
   -webkit-animation-iteration-count: 1;
   animation-iteration-count: 1;
 }
+
+.nav-item:hover, .nav-item:focus, .nav-item:active{
+    color: #333333;
+}
