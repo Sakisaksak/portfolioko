@@ -130,7 +130,7 @@ header{
 /*about*/
 .container1{
     width: 100%;
-    background-image: url ("/pexels-vincent-rivaud-2147491.jpg");
+    background-image: url ("/portfolioko/pexels-vincent-rivaud-2147491.jpg");
     height: 100vh;
 }
 
@@ -154,7 +154,7 @@ height: 60vh;
 /*contact*/
 .container3{
     height: 50vh;
-    background-image: url ("/05.jpg");
+    background-image: url ("/portfolioko/05.jpg");
     color: wheat;
     text-align: center;
 }
