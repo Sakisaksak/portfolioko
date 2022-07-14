@@ -89,7 +89,7 @@
 }
 
 /* nav bar/menu */
-header{
+.navbar{
     width: 100%;
     background-color: black;
     display: flex;
