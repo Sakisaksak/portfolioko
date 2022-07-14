@@ -150,7 +150,7 @@ height: 60vh;
 /*contact*/
 .container3{
     height: 50vh;
-    background-color: brown;
+    background-image: url ("/05.jpg");
     color: wheat;
     text-align: center;
 }
