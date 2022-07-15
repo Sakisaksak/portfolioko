@@ -130,7 +130,7 @@ header{
 /*about*/
 .about{
     width: 100%;
-    background-image: url ("pexels-vincent-rivaud-2147491.jpg");
+    background: url (.../pexels-vincent-rivaud-2147491.jpg) no-repeat;
     height: 100vh;
 }
 
