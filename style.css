@@ -128,14 +128,14 @@ header{
 }
 
 /*about*/
-.about{
+.abt{
     width: 100%;
     background: url (.../pexels-vincent-rivaud-2147491.jpg) no-repeat;
     height: 100vh;
 }
 
 /*skills*/
-.skills{
+.skil{
     background-color:blueviolet;
     width: 100%;
     height: 60vh;
@@ -152,7 +152,7 @@ header{
 }
 
 /*contact*/
-.contact{
+.cont{
     height: 50vh;
     background-image: url ("05.jpg");
     text-align: center;
