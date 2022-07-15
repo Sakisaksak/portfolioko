@@ -130,7 +130,7 @@ header{
 /*about*/
 .abt{
     width: 100%;
-    background: url ("https://github.com/Sakisaksak/portfolioko/pexels-vincent-rivaud-2147491.jpg") no-repeat;
+    background-image: url ("../pics/pexels-vincent-rivaud-2147491.jpg") no-repeat;
     height: 100vh;
     background-size:cover;
 }
